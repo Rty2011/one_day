@@ -1,0 +1,10 @@
+count=1
+while count<=100:
+  print(count)
+  count+=1
+
+print("-The End-")
+
+오늘 하루 변수,조건문,반복문에 대하여 배웠다
+위 코드는 반복문에 대한것이다
+100을 너무 크게하면 컴퓨터가 힘들어함
